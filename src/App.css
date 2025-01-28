@@ -1,0 +1,12 @@
+.app-container {
+  font-family: Arial, sans-serif;
+  background-color: #e9ecef;
+  padding: 20px;
+}
+
+.app-title {
+  text-align: center;
+  color: #333;
+  font-size: 2rem;
+  margin-bottom: 40px;
+}
